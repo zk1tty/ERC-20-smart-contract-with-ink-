@@ -1,5 +1,7 @@
-# This example covers following 3 assignments 
+# This example covers following 2 assignments 
 
+
+## LINK to live example -  [Sample](http://helloworld.qubitvision.io/substrate-front-end-template/)
 
 ## Front-end Javascript
 ## Write an ERC20 Smartcontract with INC
