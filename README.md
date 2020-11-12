@@ -7,7 +7,7 @@
 ### Write an ERC20 Smartcontract with INC
 
 
-##Block Searcher - You can search with hash/number 
+## Block Search - You can search with hash/number 
 
 ![Screenshot](s1.png)
 
