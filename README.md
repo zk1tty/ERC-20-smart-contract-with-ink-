@@ -1,4 +1,4 @@
-# This example covers following 2 assignments 
+# This example covers following 3 assignments 
 
 
 ## LINK to live example -  [Sample](http://helloworld.qubitvision.io/substrate-front-end-template/)
