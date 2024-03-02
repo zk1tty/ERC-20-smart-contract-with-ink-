@@ -21,6 +21,7 @@ mod erc20 {
     #[cfg(not(feature = "ink-as-dependency"))]
 
     /// A simple ERC-20 contract.
+    /// This is for triggering to create PR 
     #[ink(storage)]
     pub struct Erc20 {
         /// The total supply.
